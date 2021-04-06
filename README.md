@@ -3,7 +3,7 @@ Brain Trainer Final College Project
 
 ## What's this project ?
 
-Brain Trainer is a project that's designed for ages 8-12 to challenge the abilities,
+Brain Trainer is a game that's designed for ages 8-12 to challenge the abilities,
 and make practice and studies more fun with 2 different games (Puzzle, Math)
 
 ## What the goal of this project ?
